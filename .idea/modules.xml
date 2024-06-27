@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exception/Exception.iml" filepath="$PROJECT_DIR$/Exception/Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exceptions/Exceptions.iml" filepath="$PROJECT_DIR$/Exceptions/Exceptions.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java.iml" filepath="$PROJECT_DIR$/Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/extends_learning/extends_learning.iml" filepath="$PROJECT_DIR$/extends_learning/extends_learning.iml" />
       <module fileurl="file://$PROJECT_DIR$/innerclass_learning/innerclass_learning.iml" filepath="$PROJECT_DIR$/innerclass_learning/innerclass_learning.iml" />
