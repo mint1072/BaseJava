@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- 抬头声明在第一行 -->
+<!--只能有一个根标签-->
+<Users>
+    <user id="1">
+        <name>lili</name>
+        <sex>男</sex>
+        <height>169.5</height>
+    </user>
+    <user id="2">
+        <name>oioi</name>
+        <sex>女</sex>
+        <height>163.5</height>
+    </user>
+</Users>
